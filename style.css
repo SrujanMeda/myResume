@@ -1,0 +1,26 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.fontColor {
+  color: #8055a2;
+}
+
+hr {
+  height: 2px;
+  background-color: #8055a2;
+  border: none;
+}
+
+h3 {
+  font-style: bold;
+  font-size: 11pt;
+}
+
+p {
+  font-size: 11pt;
+}
+
+h2 {
+  font-size: 13pt;
+}
